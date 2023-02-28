@@ -1,17 +1,10 @@
-# Informe_Tarea8
-Resolución de ejercicios Capítulo 15 y 16 del Libro de Floyd (Octava edición)
+# Informe_Tarea8_F.Circuitos_Electricos--
+Resumen del capítulo 15 y 16 del libro de Principios de Circuitos Eléctricos - Floyd
+# Objetivos
+## Objetivo General 
+Analizar el comportamiento de los circuitos RC
 
-### Circuitos RC (Capitulo 15)
-
-### Circuitos RL (Capitulo 16)
-
-### 1. OBJETIVOS
-
-#### Objetivos generales
-
-Conocer y estudiar los conceptos de Circuitos RC y Circuitos RL por medio de la implementación de mapas conceptuales para mejorar el entendimiento, para luego desarrollar correctamente los ejercicios de cada tema.
-
-#### Objetivos especificos
+## Objetivos especificos
 
 - Aprender a manejar los números complejos para aplicarlos en Circuitos RC
 
@@ -21,152 +14,17 @@ Conocer y estudiar los conceptos de Circuitos RC y Circuitos RL por medio de la 
 
 - Reconocer fallas en circuitos RC
 
--  Describir la relación entre corriente y voltaje en un circuito RL en serie
+- Describir la relación entre corriente y voltaje en un circuito RL en serie
 
--  Determinar impedancia y admitancia en un circuito RL en paralelo
+- Determinar impedancia y admitancia en un circuito RL en paralelo
 
--  Reconocer fallas en circuitos RL
+- Reconocer fallas en circuitos RL
 
 ### 2. MARCO TEORICO
 
 ## Circuitos RC (Capitulo 15)
+![image](https://user-images.githubusercontent.com/116780907/221772145-a4e0499e-a6ce-451d-9a8d-aeceabea7ce6.png)
 
-#### Circuitos en Serie
-
-![image](https://user-images.githubusercontent.com/105259381/185812920-55615ad1-1c6f-4f88-86ce-49aa9856df73.png)
-
-#### Circuitos en Paralelo
-
-![image](https://user-images.githubusercontent.com/105259381/186506868-d69bbb2b-310e-4fcf-b2c9-6fcb462d3bae.png)
-
-![image](https://user-images.githubusercontent.com/105259381/186506681-563e88c0-7d06-47c1-a2fb-7521a9e7a08f.png)
-
-#### CIrcuitos en Serie- Paralelo
-
-La impedancia de componentes dispuestos en serie es más fácil de expresar en forma rectangular, y la impedancia de componentes dispuestos en paralelo se encuentra mejor utilizando la forma polar. 
-
-El método es expresar primero cada impedancia de rama en forma rectangular y luego convertir cada una de estas impedancias a forma polar. A continuación, se calcula cada corriente de rama utilizando notación polar. Una vez que se conocen las corrientes de rama, se puede encontrar la corriente total sumando las dos corrientes de rama en forma rectangular. En este caso particular, no se requiere la impedancia total.
-
-Ejemplo: 
-
-Determine todas las corrientes mostradas en la figura. Trace un diagrama fasorial de corriente.
-
-![image](https://user-images.githubusercontent.com/105259381/186515912-a6271bfb-5c1b-4400-bea1-db36ce1d65b0.png)
-
-![image](https://user-images.githubusercontent.com/105259381/186515550-4d452156-95e8-48c9-9ee5-4fa3438093c3.png)
-
-![image](https://user-images.githubusercontent.com/105259381/186515598-5073d385-6e7f-4b4e-8f6d-656943e6d24b.png)
-
-![image](https://user-images.githubusercontent.com/105259381/186515725-2d236cb7-e24e-421e-8649-cc5c9b1c76ad.png)
-
-![image](https://user-images.githubusercontent.com/105259381/186518685-4fffeafa-e255-4840-83a8-fe36d41a02d8.png)
-
-- Medición del ángulo de fase, θ
-
-Para medir el ángulo de fase, el voltaje de la fuente y la corriente total deben aparecer en la pantalla del osciloscopio en la relación de tiempo apropiada. Dos tipos básicos de puntas de prueba están disponibles para medir las cantidades con un osciloscopio: la punta de prueba de voltaje y la punta de prueba de corriente. La punta de prueba de corriente es un dispositivo conveniente, pero a menudo no tan disponible como el de voltaje. La técnica de medición de fase se limitará al uso de puntas de prueba de voltaje junto con el osciloscopio. Aunque existen métodos de aislamiento especiales, una punta de prueba de voltaje tiene dos puntas que se conectan al circuito: la de detección y la de tierra. Por tanto, todas las mediciones de voltaje deben ser referidas a tierra. Como sólo se tienen que utilizar puntas de prueba de voltaje, no es posible medir la corriente directamente. Sin embargo, para mediciones de fase, el voltaje a través de R1 está en fase con la corriente total y puede ser utilizado para establecer el ángulo de fase de la corriente.
-
-Se puede calcular el ángulo de fase con la siguiente ecuación:
-
-![image](https://user-images.githubusercontent.com/105259381/186519405-0086720d-083c-4e92-8eef-b7be1ea3fadf.png)
-
-#### Temas Especiales
-
-Potencia en circuitos RC
-
-En un circuito de ca puramente resistivo, la resistencia disipa toda energía suministrada por la fuente en forma de calor. En un circuito de ca puramente capacitivo, el capacitor guarda toda energía suministrada por la fuente durante una parte del ciclo de voltaje y luego la regresa a la fuente durante otra parte del ciclo, de modo que no hay conversión de energía en calor.
-
-Cuando hay tanto resistencia como capacitancia, ésta guarda y regresa alternadamente una parte de la energía y la resistencia disipa otra parte.
-
-Las fórmulas para el cálculo de la potencia en un resistor, en ocasiones llamada potencia real (Preal), y la potencia en un capacitor, llamada potencia reactiva (Pr)
-
-![image](https://user-images.githubusercontent.com/105259381/186520326-eceefc7b-4011-4325-b7df-5c00ac9eff97.png)
-
-El triángulo de potencia para circuitos RC
-
-Un diagrama similar también puede representar una relación fasorial en el caso de potencias porque las magnitudes respectivas de éstas, Preal y Pr, difieren de R y XC por un factor de I2.
-
-![image](https://user-images.githubusercontent.com/105259381/186520853-3ffdbd16-a3db-4114-8d25-55608c3f0679.png)
-
-![image](https://user-images.githubusercontent.com/105259381/186521192-784c8f21-4f28-44a8-a77f-2b36c584addc.png)
-
-El factor de potencia
-
-El término cos θ se llama factor de potencia y se establece como
-
-![image](https://user-images.githubusercontent.com/105259381/186521426-0b2dcf49-7324-45ec-8607-0a09965879fa.png)
-
-Conforme el ángulo de fase entre el voltaje aplicado y la corriente total se incrementa, el factor de potencia disminuye, lo cual indica la existencia de un circuito crecientemente reactivo.
-
-El oscilador de desplazamiento de fase
-
-Un oscilador es un circuito que genera una forma de onda periódica, y resulta muy importante en muchos sistemas electrónicos. Se estudiarán los osciladores en cursos de dispositivos, por lo cual aquí el enfoque se concentra en la aplicación de circuito RC para desplazamiento de fase. El requerimiento es que una fracción de la salida del oscilador sea regresada hacia la entrada (llamada “retroalimentación”) en la fase apropiada para reforzar la entrada y mantener las oscilaciones. Por regla general, el requerimiento es retroalimentar la señal con un total de 180° de desplazamiento de fase.
-
-## Circuitos RL (Capitulo 16)
-
-![image](https://user-images.githubusercontent.com/105259381/186585219-d688531a-9700-4aed-bd0c-f05ac093aef2.png)
-
-Este circuito RL es muy común. Aparece siempre que hay un alambre enrollado en un circuito, como cuando obligas a un relé mecánico a provocar un movimiento físico (un relé contiene una bobina que se utiliza como electroimán). Encontramos inductores en casi todas las fuentes de poder y en muchos filtros. Todos los cables y los trazados de las tarjetas de circuitos tienen una pequeña autoinductancia, que puede ser importante en circuitos muy veloces.
-
-Para un circuito resistor-inductor, si el inductor tiene una corriente inicial, Io esta disminuirá exponencialmente de acuerdo a la ecuación:
-
-![image](https://user-images.githubusercontent.com/105259381/186585432-a52cebcd-fa08-4a23-9d27-136f1a437518.png)
-
-Donde Io es la corriente al tiempo t=0. A esta la llamamos respuesta natural del circuito.
-
-La constante de tiempo para un circuito RL es 
-
-![image](https://user-images.githubusercontent.com/105259381/186585638-74bc5f4c-b0c2-4392-8edc-3027f340def2.png)
-
-La respuesta natural de un circuito es lo que hace el circuito cuando no está bajo influencias externas (no entra energía). Es el comportamiento más básico del circuito. Cuando lo colocamos en un circuito más grande, la respuesta natural juega un papel fundamental en el comportamiento general.
-
-Estos elementos son de tamaño pequeño para valores de componentes mayormente altos. Se puede formar un filtro unipolar utilizando los circuitos RL y RC. Cuando los elementos reactivos como el condensador o el inductor están conectados en serie/paralelo con la carga, se indicará si el filtro es de paso alto o de paso bajo.
-
-Considere el siguiente circuito RL que incluye un resistor y un inductor usando una fuente de voltaje. Creemos que el flujo de corriente dentro del circuito es I (amperio) y a través de la resistencia es IR y el inductor es IL correspondientemente.
-
-![image](https://user-images.githubusercontent.com/105259381/186585869-796ebad7-edb5-40b9-9057-07cd63c616ba.png)
-
-Dado que tanto los componentes como R & L están conectados en serie, entonces el flujo de corriente dentro de ambos componentes y el circuito completo será el mismo como IR = IL = I. La caída de voltaje a través de la resistencia y el inductor son VR y VI
-
-#### Diagrama Fasorial
-
-![image](https://user-images.githubusercontent.com/105259381/186586049-10e967b2-cdfc-49fb-bfb8-30a38936e75b.png)
-
-Aquí, la corriente (I) se puede tomar como referencia.
-
-El VR que se conoce como la caída de voltaje a través de la resistencia = IR se puede dibujar dentro de la fase a través de la corriente (I).
-
-A través de la reactancia inductiva, la caída de voltaje es VL = IXL se puede dibujar por delante del flujo de corriente porque el flujo de corriente retrasa el voltaje a través de 90 grados dentro del circuito inductivo.
-Las caídas de la suma vectorial de dos voltajes son VR y VL, que son equivalentes al voltaje V dado.
-
-Entonces,
-
-En el triángulo anterior como OAB
-
-![image](https://user-images.githubusercontent.com/105259381/186586263-179dc9e9-1e1f-4ae7-b9d0-6e24a7dfe521.png)
-
-Aquí, «Z» es toda la resistencia que se ofrece al flujo de CA a través de un circuito RL en serie. Entonces se conoce como la impedancia del circuito RL y se mide en ohmios (Ω).
-
-#### Circuito RL Paralelo
-
-Cuando tanto el resistor como el inductor están conectados en paralelo entre sí y se alimentan a través de una fuente de voltaje, se conoce como circuito RL paralelo. Los voltajes de entrada y salida del circuito son Ve y Vs. Una vez que el resistor y el inductor están conectados en paralelo, Ve es equivalente a Vs. Sin embargo, el flujo de corriente dentro de estos componentes no es el mismo.
-
-![image](https://user-images.githubusercontent.com/105259381/186586522-70a138a7-3db9-412d-b565-2f1cf970bd86.png)
-
-En un circuito RC en paralelo, la relación principal entre el voltaje y las corrientes se puede ilustrar mediante el diagrama vectorial (fasor).
-
-El vector de referencia «E» significa el voltaje dentro del circuito paralelo RL.
-
-Como el flujo de corriente a través de la resistencia está dentro de la fase por el voltaje a través de él, entonces se muestra IR en el vector de voltaje.
-
-El «IL» retrasa el voltaje en un ángulo de 90 grados y se puede colocar dentro de una dirección hacia abajo para retrasar el vector de voltaje en un ángulo de 90 grados.
-
-Aquí, tanto la suma de vectores como IR e IL proporcionan un resultado que significa la suma (IT) de lo contrario, la corriente de línea
-
-El ángulo «θ» denota la fase entre la corriente y el voltaje de línea dados.
-
-El diagrama fasorial del circuito RL paralelo se muestra a continuación.
-
-![image](https://user-images.githubusercontent.com/105259381/186586633-b653e076-715e-4f25-bd9a-1379b9adff13.png)
 
 
 ### 3. EXPLICACIÓN O RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
