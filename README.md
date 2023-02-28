@@ -653,13 +653,8 @@ Para el literal b
 
 - Los análisis de circuitos RL y RC son similares. La diferencia principal es que las respuestas de fase son opuestas: la reactancia inductiva se incrementa con la frecuencia, en tanto que la reactancia capacitiva disminuye con la frecuencia. Un circuito RL contiene tanto resistencia como inductancia.
 
-## 5. VIDEO
-
-https://youtu.be/3MK4RwzcdBQ
 
 ## 6. BIBLIOGRAFIA
 
 Floyd, TL (2007). Principios de circuitos electricos. Monterrey: Pearson Educación.
-
-Bismarks, J. L. (2021, May 21). El resistor (R), el inductor (L) y el condensador (C). Electrónica Online. https://electronicaonline.net/electronica/circuito-rl-funcionamiento-usos/
 
