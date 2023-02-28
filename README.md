@@ -502,7 +502,7 @@ Para el literal b
 
 ![image](https://user-images.githubusercontent.com/105259381/186582458-7e21cb1c-4e78-4aac-8858-4128cc9da59d.png)
 
-## Conclsuiones
+## Conclusiones
 
 - Mediante la introducción de los números complejos se constituye una herramienta importante para el análisis de circuitos de ca. El sistema de números complejos es una forma de exresar matemáticamente una cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades fasoriales.
 - Los circuitos RL se utilizan para filtrar señales eléctricas y reducir el ruido en circuitos electrónicos, al igual que los circuitos RC. Además, los circuitos RL también se utilizan para controlar la corriente que fluye a través de los motores eléctricos.
