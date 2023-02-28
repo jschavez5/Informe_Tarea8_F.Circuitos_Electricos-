@@ -2,7 +2,7 @@
 Resumen del capítulo 15 y 16 del libro de Principios de Circuitos Eléctricos - Floyd
 # Objetivos
 ## Objetivo General 
-Analizar el comportamiento de los circuitos RC
+Analizar el comportamiento de los circuitos RC y RL
 
 ## Objetivos especificos
 
