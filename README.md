@@ -20,14 +20,16 @@ Analizar el comportamiento de los circuitos RC
 
 - Reconocer fallas en circuitos RL
 
-### 2. MARCO TEORICO
+## MARCO TEORICO
 
-## Circuitos RC (Capitulo 15)
 ![image](https://user-images.githubusercontent.com/116780907/221772145-a4e0499e-a6ce-451d-9a8d-aeceabea7ce6.png)
+![image](https://user-images.githubusercontent.com/116780907/221772675-0e1384dd-9f53-43af-adb8-47e27b06d23e.png)
+![image](https://user-images.githubusercontent.com/116780907/221772755-54cf2e4a-3ece-43d2-806a-e31b53d162a7.png)
+![image](https://user-images.githubusercontent.com/116780907/221772831-9a1911b6-5b38-4dc9-a700-87ea98ee72f9.png)
 
 
 
-### 3. EXPLICACIÓN O RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+## EXPLICACIÓN O RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ## Resolución de los ejercicios Capitulo 15
 
@@ -514,5 +516,6 @@ Para el literal b
 
 ## 6. BIBLIOGRAFIA
 
-Floyd, TL (2007). Principios de circuitos electricos. Monterrey: Pearson Educación.
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos . México : PEARSON EDUCACIÓN.
+
 
