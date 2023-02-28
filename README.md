@@ -20,7 +20,7 @@ Analizar el comportamiento de los circuitos RC
 
 - Reconocer fallas en circuitos RL
 
-## MARCO TEORICO
+## Marco Teórico 
 
 ![image](https://user-images.githubusercontent.com/116780907/221772145-a4e0499e-a6ce-451d-9a8d-aeceabea7ce6.png)
 ![image](https://user-images.githubusercontent.com/116780907/221772675-0e1384dd-9f53-43af-adb8-47e27b06d23e.png)
@@ -29,13 +29,14 @@ Analizar el comportamiento de los circuitos RC
 
 
 
-## EXPLICACIÓN O RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+## Explicación y Resolución de Ejercicios o Problemas
+
 
 ## Resolución de los ejercicios Capitulo 15
 
 #### PARTE 1: CIRCUITOS EN SERIE
 
-#### SECCIÓN 15–1 El sistema de los números complejos
+#### Sección 15–1 El sistema de los números complejos
 
 2. Localice los siguientes números en el plano complejo:
 
@@ -95,13 +96,13 @@ Analizar el comportamiento de los circuitos RC
 
 ![image](https://user-images.githubusercontent.com/105259381/186543990-7f86a8ed-8fc4-452f-9833-4056d1a6077c.png)
 
-#### SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie
+#### Sección 15–2 Respuesta sinusoidal de circuitos RC en serie
 
 20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
 
 La corriente es sinusoidal
 
-#### SECCIÓN 15–3 Impedancia de circuitos RC en serie
+#### Sección 15–3 Impedancia de circuitos RC en serie
 
 22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.
 
@@ -127,7 +128,7 @@ Para el literal c
 
 ![image](https://user-images.githubusercontent.com/105259381/186544972-2c273728-8efc-4c6c-8da2-bb584d1bd076.png)
 
-#### SECCIÓN 15–4 Análisis de circuitos RC en serie
+#### Sección 15–4 Análisis de circuitos RC en serie
 
 26. Exprese la corriente en forma polar para cada circuito de la figura 15-84
 
@@ -191,9 +192,9 @@ Diagrama fasorial:
 
 ![image](https://user-images.githubusercontent.com/105259381/186548205-2882dea3-486f-4ae5-9907-d6db41501d14.png)
 
-#### PARTE 2: CIRCUITOS EN PARALELO
+#### Parte 2: Circuitos en Paralelo 
 
-#### SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo 
+#### Sección 15–5 Impedancia y admitancia de circuitos RC en paralelo 
 
 40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93
 
@@ -209,7 +210,7 @@ Diagrama fasorial:
 
 ![image](https://user-images.githubusercontent.com/105259381/186548782-61b5a594-eb21-4b34-ad7d-26d83a59625b.png)
 
-#### SECCIÓN 15–6 Análisis de circuitos RC en paralelo
+#### Sección 15–6 Análisis de circuitos RC en paralelo
 
 44. Para el circuito en paralelo de la figura 15-96, encuentre la magnitud de cada corriente de rama y la corriente total. ¿Cuál es el ángulo de fase entre el voltaje aplicado y la corriente total?
 
@@ -229,9 +230,9 @@ Diagrama fasorial:
 
 ![image](https://user-images.githubusercontent.com/105259381/186549635-11590807-9915-442b-82a0-ad3cafb1e710.png)
 
-#### PARTE 3: CIRCUITOS EN SERIE-PARALELO
+#### Parte 3: Circuitos en Serie-Paralelo
 
-#### SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo
+#### Sección 15–7 Análisis de circuitos RC en serie-paralelo
 
 50. ¿Es el circuito de la figura 15-100 predominantemente resistivo o predominantemente capacitivo?
 
@@ -267,9 +268,9 @@ Por lo tanto, el circuito es predominantemente resistivo
 
 ![image](https://user-images.githubusercontent.com/105259381/186552402-954933ee-329d-46ea-8e44-b06ace20bb8b.png)
 
-#### PARTE 4: TEMAS ESPECIALES
+#### Parte 4: Parte 4: Temas Especiales
 
-#### SECCIÓN 15–8 Potencia en circuitos RC
+#### Sección 15–8 Potencia en circuitos RC
 
 58. En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
 
@@ -285,7 +286,7 @@ Por lo tanto, el circuito es predominantemente resistivo
 
 ![image](https://user-images.githubusercontent.com/105259381/186553212-03a359a8-6a90-4dd8-882b-7829ad973c99.png)
 
-#### SECCIÓN 15–9 Aplicaciones básicas 
+#### Sección 15–9 Aplicaciones básicas 
 
 62. Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de 0.0022 mF y todos los resistores de 10 kΩ.
 
@@ -303,7 +304,7 @@ La pérdida de señal es la caida de tensión en C
 
 ![image](https://user-images.githubusercontent.com/105259381/186554121-529d148b-3b6a-4995-94d5-9704b012fdad.png)
 
-#### SECCIÓN 15–10 Localización de fallas
+#### Sección 15–10 Localización de fallas
 
 66. Los capacitores de la figura 15-107 han desarrollado un resistencia de fuga de 2 kÆ. Determine los voltajes de salida en esta condición para cada circuito.
 
@@ -325,15 +326,15 @@ Para el literal b
 
 ## Resolución de los ejercicios Capitulo 16
 
-#### PARTE 1: CIRCUITOS EN SERIE
+#### Parte 1: Circuitos en Serie 
 
-#### SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
+#### Sección 16–1 Respuesta sinusoidal de circuitos RL en serie
 
 2. ¿Cuáles son las formas de onda de I, VR y VL en el problema 1?
 
 I, VR y VL, son ondas de forma sinusoidal
 
-#### SECCIÓN 16–2 Impedancia de circuitos RL en serie
+#### Sección 16–2 Impedancia de circuitos RL en serie
 
 4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia
 
@@ -351,7 +352,7 @@ Para el literal b
 
 ![image](https://user-images.githubusercontent.com/105259381/186560178-f8794cfb-7aaf-4433-bcef-d47b1f661616.png)
 
-#### SECCIÓN 16–3 Análisis de circuitos RL en serie
+#### Sección 16–3 Análisis de circuitos RL en serie
 
 8. Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.
 
@@ -395,9 +396,9 @@ Para el literal b
 
 ![image](https://user-images.githubusercontent.com/105259381/186568102-1d316160-a2f6-420e-8e5c-e7d67b24e177.png)
 
-#### PARTE 2 CIRCUITOS EN PARALELO
+#### Parte 2: Circuitos en Paralelo
 
-#### SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
+#### Sección 16–4 Impedancia y admitancia de circuitos RL en paralelo
 
 20. Repita el problema 19 para las siguientes frecuencias:
 
@@ -409,7 +410,7 @@ Para el literal b
 
 ![image](https://user-images.githubusercontent.com/105259381/186570445-805550f0-98b8-4e22-a19a-94deebaf8d35.png)
 
-#### SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+#### Sección 16–5 Análisis de circuitos RL en paralelo
 
 22. Encuentre la corriente total y cada corriente de rama en la figura 16-64
 
@@ -431,9 +432,9 @@ Para el literal b
 
 ![image](https://user-images.githubusercontent.com/105259381/186573262-73b38b5a-95da-406f-a85d-9e21d7f224d0.png)
 
-#### PARTE 3: CIRCUITOS EN SERIE-PARALELO
+#### Parte 3: Circuitos en Serie-Paralelo
 
-#### SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
+#### Sección 16–6 Análisis de circuitos RL en serie-paralelo
 
 28. ¿Es el circuito de la figura 16-68 predominantemente resistivo o predominantemente inductivo?
 
@@ -463,9 +464,9 @@ Para el literal b
 
 ![image](https://user-images.githubusercontent.com/105259381/186580534-27765ce1-6968-46ce-9d63-f048c2c8c208.png)
 
-#### PARTE 4: TEMAS ESPECIALES
+#### Parte 4: Temas Especiales 
 
-#### SECCIÓN 16–7 Potencia en circuitos RL
+#### Sección 16–7 Potencia en circuitos RL
 
 36. En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiva de 340 mVAR. ¿Cuál es la potencia aparente?
 
@@ -483,7 +484,7 @@ Para el literal b
 
 ![image](https://user-images.githubusercontent.com/105259381/186581158-808dda41-63eb-43ef-9f2e-47398174a0d7.png)
 
-#### SECCIÓN 16–8 Aplicaciones básicas
+#### Sección 16–8 Aplicaciones básicas
 
 42. Con el mismo procedimiento del problema 41, trace la curva de respuesta para la figura 16-62
 
@@ -493,7 +494,7 @@ Para el literal b
 
 ![image](https://user-images.githubusercontent.com/105259381/186582079-7ca29751-adae-4830-a173-3b923eab78e1.png)
 
-#### SECCIÓN 16–9 Localización de fallas
+#### Sección 16–9 Localización de fallas
 
 44. Determine el voltaje a través de cada componente mostrado en la figura 16-73 si L1 está abierto
 
@@ -501,16 +502,12 @@ Para el literal b
 
 ![image](https://user-images.githubusercontent.com/105259381/186582458-7e21cb1c-4e78-4aac-8858-4128cc9da59d.png)
 
-## 4. CONCLUSIONES 
+## Conclsuiones
 
 - Mediante la introducción de los números complejos se constituye una herramienta importante para el análisis de circuitos de ca. El sistema de números complejos es una forma de exresar matemáticamente una cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades fasoriales.
-
-- En la sección de impedancia y admitancia de circuitos rc en paralelo se aprendió cómo determinar la impedancia y el ángulo de fase de un circuito RC dispuesto en paralelo. La impedancia se compone de un componente de magnitud y un componente de ángulo de fase.
-
-- Los conceptos estudiados con respecto a circuitos dispuestos en serie-paralelo se utilizan para analizar circuitos que tienen combinaciones de componentes R y C tanto en serie como en paralelo.
-
+- Los circuitos RL se utilizan para filtrar señales eléctricas y reducir el ruido en circuitos electrónicos, al igual que los circuitos RC. Además, los circuitos RL también se utilizan para controlar la corriente que fluye a través de los motores eléctricos.
+- Cuando se aplica una señal de entrada a un circuito RL, la señal de salida se desfasa en fase y en amplitud. La magnitud de este desfase depende de la frecuencia de la señal de entrada y del valor de L/R.
 - Las fallas o la degradación de algunos componentes típicos afectan la respuesta a la frecuencia en circuitos RC básicos.
-
 - Los análisis de circuitos RL y RC son similares. La diferencia principal es que las respuestas de fase son opuestas: la reactancia inductiva se incrementa con la frecuencia, en tanto que la reactancia capacitiva disminuye con la frecuencia. Un circuito RL contiene tanto resistencia como inductancia.
 
 
